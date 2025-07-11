@@ -8,7 +8,7 @@ public class HelloWorld {
 		
 		System.out.println("Another print statement");
 		
-		System.out.println("Programmer 2 did this");
+		System.out.println("Programmer 2 did this, programmer 2 also did this");
 	}
 
 }
